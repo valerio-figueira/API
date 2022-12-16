@@ -1,0 +1,25 @@
+{
+  "name": "api-restful",
+  "version": "1.0.0",
+  "description": "My new api with photos and contents",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valerio-figueira/API.git"
+  },
+  "author": "Valerio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valerio-figueira/API/issues"
+  },
+  "homepage": "https://github.com/valerio-figueira/API#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0"
+  }
+}
